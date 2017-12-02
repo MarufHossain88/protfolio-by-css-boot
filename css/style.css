@@ -1,0 +1,24 @@
+.main-ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.main-ul li{
+    float: left;
+    width: 120px;
+    border: 1px solid;
+}
+
+.main-ul li a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    height: 50px;
+    padding-top: 15px;
+}
+
+.main-ul li a:hover{
+    background-color: #1c7430;
+    color: #721c24;
+}
